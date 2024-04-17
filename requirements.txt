@@ -1,0 +1,9 @@
+black==23.9.1
+coverage==7.3.1
+Django==4.2.5
+django-stubs==4.2.4
+flake8==6.1.0
+ipython==8.15.0
+mypy==1.5.1
+pytest==7.4.2
+pytest-django==4.5.2
